@@ -40,7 +40,14 @@
 [visual]: https://code.visualstudio.com/
 [python]: https://www.python.org/
 
+
+
 <br />
+
+### Statistics
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giiiaannii&show_icons=true&theme=synthwave)
 
 
 
