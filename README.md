@@ -1,4 +1,7 @@
-### Welcome to my profile 🎉 , I'am Gianni 👋
+<img align="center" src="https://user-images.githubusercontent.com/107991103/183261242-7a9ef35f-421f-470d-95d1-9b2062908ead.PNG">
+
+
+
 
 ## I'm just a small developer looking to learn and improv
 
